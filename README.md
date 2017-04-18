@@ -1,1 +1,1 @@
-Problem solutions from the exercises and labs during the Programming Fundamentals course at SoftUni.
+Problem solutions from the exercises during the Programming Fundamentals course at SoftUni.
